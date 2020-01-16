@@ -8,7 +8,7 @@ public class Controlador {
 	@RequestMapping("/hola")
 	public String nombre() {
 		
-		return "Pabeeeeeeeel";
+		return "Pabel";
 		
 	}
 	
